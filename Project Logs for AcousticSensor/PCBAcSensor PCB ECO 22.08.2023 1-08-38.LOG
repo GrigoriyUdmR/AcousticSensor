@@ -1,0 +1,19 @@
+Added Component: Designator=DD1(CD4001B)
+Added Component: Designator=DD2(CD4001B)
+Added Pin To Net: NetName=GND Pin=DD1-9
+Added Net: Name=GND
+Added Pin To Net: NetName=NetDD1_2 Pin=DD1-2
+Added Pin To Net: NetName=NetDD1_2 Pin=DD1-12
+Added Net: Name=NetDD1_2
+Added Pin To Net: NetName=NetDD1_3 Pin=DD1-3
+Added Pin To Net: NetName=NetDD1_3 Pin=DD2-1
+Added Net: Name=NetDD1_3
+Added Pin To Net: NetName=NetDD1_4 Pin=DD1-4
+Added Pin To Net: NetName=NetDD1_4 Pin=DD1-10
+Added Pin To Net: NetName=NetDD1_4 Pin=DD1-11
+Added Net: Name=NetDD1_4
+Added Pin To Net: NetName=NetDD1_5 Pin=DD1-5
+Added Pin To Net: NetName=NetDD1_5 Pin=DD1-6
+Added Net: Name=NetDD1_5
+Added Class: Name=SchemeAcSensor
+Added Room: Name=SchemeAcSensor

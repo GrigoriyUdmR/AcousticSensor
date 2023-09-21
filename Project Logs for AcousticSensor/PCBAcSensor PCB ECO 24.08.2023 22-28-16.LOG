@@ -1,0 +1,26 @@
+Added Component: Designator=BM1(electret_micro)
+Added Pin To Net: NetName=GND Pin=BM1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetBM1_2 Pin=BM1-2
+Added Net: Name=NetBM1_2
+Added Net: Name=NetC1_2
+Added Net: Name=NetC2_2
+Added Net: Name=NetC4_2
+Added Net: Name=NetC6_1
+Added Net: Name=NetC6_2
+Added Net: Name=NetC7_2
+Added Net: Name=NetC8_1
+Added Net: Name=NetC8_2
+Added Net: Name=NetDD1_1
+Added Net: Name=NetDD1_2
+Added Net: Name=NetDD1_3
+Added Net: Name=NetDD1_5
+Added Net: Name=NetDD1_9
+Added Net: Name=NetDD1_12
+Added Net: Name=NetDD1_14
+Added Net: Name=NetDD2_3
+Added Net: Name=NetDD2_9
+Added Net: Name=NetR3_2
+Added Net: Name=NetR7_1
+Added Class: Name=SchemeAcSensor
+Added Room: Name=SchemeAcSensor

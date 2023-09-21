@@ -1,0 +1,140 @@
+Added Component: Designator=BM1(electret_micro)
+Added Component: Designator=C1(CAPA_Polar)
+Added Component: Designator=C2(CAPA_1206)
+Added Component: Designator=C3(CAPA_Ê50-35)
+Added Component: Designator=C4(CAPA_Ê50-35)
+Added Component: Designator=C5(CAPA_Ê50-35)
+Added Component: Designator=C6(CAPA_Polar)
+Added Component: Designator=C7(CAPA_1206)
+Added Component: Designator=C8(CAPA_1206)
+Added Component: Designator=C9(CAPA_1206)
+Added Component: Designator=C10(CAPA_1206)
+Added Component: Designator=DA1(OPERATION_AMPLIFIRE)
+Added Component: Designator=DD1(CD4001B_DIP)
+Added Component: Designator=DD2(CB4017B)
+Added Component: Designator=R1(RES0805)
+Added Component: Designator=R2(RES0805)
+Added Component: Designator=R3(RES0805)
+Added Component: Designator=R4(RES0805)
+Added Component: Designator=R5(POTENTIOMETER)
+Added Component: Designator=R6(RES0805)
+Added Component: Designator=R7(RES0805)
+Added Component: Designator=R8(RES0805)
+Added Component: Designator=R9(RES0805)
+Added Component: Designator=R10(RES_output)
+Added Component: Designator=VD1(DIODE)
+Added Component: Designator=VD2(DIODE)
+Added Component: Designator=VT1(TRANSISTOR_KT3102)
+Added Component: Designator=XP1(INPUT_OUTPUT_CWF-2R)
+Added Component: Designator=XP2(INPUT_OUTPUT_CWF-2R)
+Added Pin To Net: NetName=GND Pin=BM1-1
+Added Pin To Net: NetName=NetBM1_2 Pin=BM1-2
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetBM1_2 Pin=C2-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=NetC1_2 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=NetC1_2 Pin=C5-2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_1 Pin=C9-1
+Added Pin To Net: NetName=NetC8_2 Pin=C9-2
+Added Pin To Net: NetName=NetC8_1 Pin=C10-1
+Added Pin To Net: NetName=NetC8_2 Pin=C10-2
+Added Pin To Net: NetName=NetC4_2 Pin=DA1-2
+Added Pin To Net: NetName=NetC2_2 Pin=DA1-3
+Added Pin To Net: NetName=GND Pin=DA1-4
+Added Pin To Net: NetName=NetC6_2 Pin=DA1-6
+Added Pin To Net: NetName=NetC1_2 Pin=DA1-7
+Added Pin To Net: NetName=NetDD1_1 Pin=DD1-1
+Added Pin To Net: NetName=NetDD1_2 Pin=DD1-2
+Added Pin To Net: NetName=NetDD1_3 Pin=DD1-3
+Added Pin To Net: NetName=NetDD1_2 Pin=DD1-4
+Added Pin To Net: NetName=NetDD1_5 Pin=DD1-5
+Added Pin To Net: NetName=NetDD1_5 Pin=DD1-6
+Added Pin To Net: NetName=GND Pin=DD1-7
+Added Pin To Net: NetName=NetDD1_5 Pin=DD1-8
+Added Pin To Net: NetName=NetDD1_9 Pin=DD1-9
+Added Pin To Net: NetName=NetC8_2 Pin=DD1-10
+Added Pin To Net: NetName=NetDD1_9 Pin=DD1-11
+Added Pin To Net: NetName=NetDD1_12 Pin=DD1-12
+Added Pin To Net: NetName=NetDD1_12 Pin=DD1-13
+Added Pin To Net: NetName=NetDD1_14 Pin=DD1-14
+Added Pin To Net: NetName=NetDD2_3 Pin=DD2-3
+Added Pin To Net: NetName=GND Pin=DD2-8
+Added Pin To Net: NetName=NetDD2_9 Pin=DD2-9
+Added Pin To Net: NetName=NetDD1_5 Pin=DD2-11
+Added Pin To Net: NetName=GND Pin=DD2-13
+Added Pin To Net: NetName=NetC8_2 Pin=DD2-14
+Added Pin To Net: NetName=NetDD1_3 Pin=DD2-15
+Added Pin To Net: NetName=NetDD1_14 Pin=DD2-16
+Added Pin To Net: NetName=NetBM1_2 Pin=R1-1
+Added Pin To Net: NetName=NetC1_2 Pin=R1-2
+Added Pin To Net: NetName=NetC4_2 Pin=R2-1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetC2_2 Pin=R3-1
+Added Pin To Net: NetName=NetC1_2 Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=NetC2_2 Pin=R4-2
+Added Pin To Net: NetName=NetR2_2 Pin=R5-1
+Added Pin To Net: NetName=NetC6_2 Pin=R5-2
+Added Pin To Net: NetName=NetC6_2 Pin=R5-3
+Added Pin To Net: NetName=NetDD1_14 Pin=R6-1
+Added Pin To Net: NetName=NetC1_2 Pin=R6-2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetC6_1 Pin=R7-2
+Added Pin To Net: NetName=NetC8_1 Pin=R8-1
+Added Pin To Net: NetName=NetDD1_12 Pin=R8-2
+Added Pin To Net: NetName=NetDD1_1 Pin=R9-1
+Added Pin To Net: NetName=NetDD1_14 Pin=R9-2
+Added Pin To Net: NetName=NetC8_1 Pin=R10-1
+Added Pin To Net: NetName=NetDD1_9 Pin=R10-2
+Added Pin To Net: NetName=GND Pin=VD1-1
+Added Pin To Net: NetName=NetR7_1 Pin=VD1-2
+Added Pin To Net: NetName=NetR7_1 Pin=VD2-1
+Added Pin To Net: NetName=NetC7_2 Pin=VD2-2
+Added Pin To Net: NetName=NetC7_2 Pin=VT1-1
+Added Pin To Net: NetName=NetDD1_1 Pin=VT1-2
+Added Pin To Net: NetName=GND Pin=VT1-3
+Added Pin To Net: NetName=NetC1_2 Pin=XP1-1
+Added Pin To Net: NetName=GND Pin=XP1-2
+Added Pin To Net: NetName=NetDD2_3 Pin=XP2-1
+Added Pin To Net: NetName=NetDD2_9 Pin=XP2-2
+Added Member To Class: ClassName=SchemeAcSensor Member=Component BM1 Micro
+Added Member To Class: ClassName=SchemeAcSensor Member=Component C1 470 mF
+Added Member To Class: ClassName=SchemeAcSensor Member=Component C2 Capacitor
+Added Member To Class: ClassName=SchemeAcSensor Member=Component C3 Capacitor_polar
+Added Member To Class: ClassName=SchemeAcSensor Member=Component C4 Capacitor_polar
+Added Member To Class: ClassName=SchemeAcSensor Member=Component C5 Capacitor_polar
+Added Member To Class: ClassName=SchemeAcSensor Member=Component C6 Capacitor_polar
+Added Member To Class: ClassName=SchemeAcSensor Member=Component C7 Capacitor
+Added Member To Class: ClassName=SchemeAcSensor Member=Component C8 Capacitor
+Added Member To Class: ClassName=SchemeAcSensor Member=Component C9 Capacitor
+Added Member To Class: ClassName=SchemeAcSensor Member=Component C10 Capacitor
+Added Member To Class: ClassName=SchemeAcSensor Member=Component DA1 OperationalAmplifire
+Added Member To Class: ClassName=SchemeAcSensor Member=Component DD1 DD1.1
+Added Member To Class: ClassName=SchemeAcSensor Member=Component DD2 CD4017
+Added Member To Class: ClassName=SchemeAcSensor Member=Component R1 Res
+Added Member To Class: ClassName=SchemeAcSensor Member=Component R2 Res
+Added Member To Class: ClassName=SchemeAcSensor Member=Component R3 Res
+Added Member To Class: ClassName=SchemeAcSensor Member=Component R4 Res
+Added Member To Class: ClassName=SchemeAcSensor Member=Component R5 Potentiometer
+Added Member To Class: ClassName=SchemeAcSensor Member=Component R6 Res
+Added Member To Class: ClassName=SchemeAcSensor Member=Component R7 Res
+Added Member To Class: ClassName=SchemeAcSensor Member=Component R8 Res
+Added Member To Class: ClassName=SchemeAcSensor Member=Component R9 Res
+Added Member To Class: ClassName=SchemeAcSensor Member=Component R10 Res
+Added Member To Class: ClassName=SchemeAcSensor Member=Component VD1 Diod
+Added Member To Class: ClassName=SchemeAcSensor Member=Component VD2 Diod
+Added Member To Class: ClassName=SchemeAcSensor Member=Component VT1 NPN
+Added Member To Class: ClassName=SchemeAcSensor Member=Component XP1 InputOutput
+Added Member To Class: ClassName=SchemeAcSensor Member=Component XP2 InputOutput
+Added Room: Name=SchemeAcSensor

@@ -1,0 +1,6 @@
+Added Component: Designator=R5(POTENTIOMETER)
+Added Pin To Net: NetName=NetR2_2 Pin=R5-1
+Added Pin To Net: NetName=NetC6_2 Pin=R5-2
+Added Pin To Net: NetName=NetC6_2 Pin=R5-3
+Added Member To Class: ClassName=SchemeAcSensor Member=Component R5 Potentiometer
+Added Room: Name=SchemeAcSensor

@@ -1,0 +1,97 @@
+Added Component: Designator=BM1(electret_micro)
+Added Component: Designator=C1(CAPA_Polar)
+Added Component: Designator=C2(CAPA_Ê50-35)
+Added Component: Designator=C3(CAPA_Polar)
+Added Component: Designator=C4(CAPA_Polar)
+Added Component: Designator=C5(CAPA_Polar)
+Added Component: Designator=C6(CAPA_Polar)
+Added Component: Designator=C7(CAPA_Ê50-35)
+Added Component: Designator=C8(CAPA_Ê50-35)
+Added Component: Designator=C9(CAPA_Ê50-35)
+Added Component: Designator=C10(CAPA_Ê50-35)
+Added Component: Designator=DD1(CD4001B_DIP)
+Added Component: Designator=DD2(CD4001B_DIP)
+Added Component: Designator=DD3(CD4001B_DIP)
+Added Component: Designator=DD4(CB4017B)
+Added Component: Designator=DD5(CD4001B_DIP)
+Added Component: Designator=R5(POTENTIOMETER)
+Added Component: Designator=VD1(DIODE)
+Added Component: Designator=VD2(DIODE)
+Added Component: Designator=VT1(TRANSISTOR_KT3102)
+Added Pin To Net: NetName=GND Pin=BM1-1
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=DD4-8
+Added Pin To Net: NetName=GND Pin=DD4-13
+Added Pin To Net: NetName=GND Pin=DD5-7
+Added Pin To Net: NetName=GND Pin=VD1-1
+Added Pin To Net: NetName=GND Pin=VT1-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetBM1_2 Pin=BM1-2
+Added Pin To Net: NetName=NetBM1_2 Pin=C2-1
+Added Net: Name=NetBM1_2
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=C3-2
+Added Pin To Net: NetName=NetC1_2 Pin=C5-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=R5-2
+Added Pin To Net: NetName=NetC6_2 Pin=R5-3
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=VD2-2
+Added Pin To Net: NetName=NetC7_2 Pin=VT1-1
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=C9-1
+Added Pin To Net: NetName=NetC8_1 Pin=C10-1
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=C9-2
+Added Pin To Net: NetName=NetC8_2 Pin=C10-2
+Added Pin To Net: NetName=NetC8_2 Pin=DD3-10
+Added Pin To Net: NetName=NetC8_2 Pin=DD4-14
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetDD1_1 Pin=DD1-1
+Added Pin To Net: NetName=NetDD1_1 Pin=VT1-2
+Added Net: Name=NetDD1_1
+Added Pin To Net: NetName=NetDD1_2 Pin=DD1-2
+Added Pin To Net: NetName=NetDD1_2 Pin=DD5-4
+Added Net: Name=NetDD1_2
+Added Pin To Net: NetName=NetDD1_3 Pin=DD1-3
+Added Pin To Net: NetName=NetDD1_3 Pin=DD4-15
+Added Net: Name=NetDD1_3
+Added Pin To Net: NetName=NetDD1_14 Pin=DD1-14
+Added Pin To Net: NetName=NetDD1_14 Pin=DD4-16
+Added Net: Name=NetDD1_14
+Added Pin To Net: NetName=NetDD2_11 Pin=DD2-11
+Added Pin To Net: NetName=NetDD2_11 Pin=DD3-9
+Added Net: Name=NetDD2_11
+Added Pin To Net: NetName=NetDD2_12 Pin=DD2-12
+Added Pin To Net: NetName=NetDD2_12 Pin=DD2-13
+Added Net: Name=NetDD2_12
+Added Pin To Net: NetName=NetDD3_8 Pin=DD3-8
+Added Pin To Net: NetName=NetDD3_8 Pin=DD4-11
+Added Pin To Net: NetName=NetDD3_8 Pin=DD5-5
+Added Pin To Net: NetName=NetDD3_8 Pin=DD5-6
+Added Net: Name=NetDD3_8
+Added Pin To Net: NetName=NetDD4_3 Pin=DD4-3
+Added Net: Name=NetDD4_3
+Added Pin To Net: NetName=NetDD4_9 Pin=DD4-9
+Added Net: Name=NetDD4_9
+Added Pin To Net: NetName=NetR2_2 Pin=R5-1
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR7_1 Pin=VD1-2
+Added Pin To Net: NetName=NetR7_1 Pin=VD2-1
+Added Net: Name=NetR7_1
+Added Class: Name=SchemeAcSensor
+Added Room: Name=SchemeAcSensor
